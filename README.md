@@ -14,6 +14,7 @@
 
 1-6.套件如果有任何問題(例如導入列車包會崩潰,或是轉向架消失)可以直接詢問作者,或是提供優化版本
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 若竹車両工場 RTM Addon一般キット使用規則、オープンソース条件（JP 日本語）
 
@@ -29,6 +30,7 @@
 
 1-6.キットに問題がある場合（たとえば、列車のパッケージをインポートするとクラッシュしたり、台車が消えたりするなど）、作成者に直接問い合わせるか、最適化されたバージョンを提供できます
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US English)
 
@@ -44,6 +46,7 @@ Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US
 
 1-6. If there is a problem with the kit (for example, importing a train package crashes or the dolly disappears), you can contact the author directly or provide an optimized version.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Rouzou Factory RTM kit umum modul RTM Wakatake Vehicle Factory, sesuai dengan ketentuan open source (Bahasa Indonesia)
 
