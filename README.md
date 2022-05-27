@@ -1,6 +1,6 @@
 # Rouzou-Factory-RTM-Addon
 
-若竹車輛工廠RTM模組通用套件使用規則,遵照開源條款 (Zh-TW 中文台灣)
+若竹車輛工廠RTM模組通用套件使用規則,遵照開源條款 (Zh-TW 中文台灣,原文)
 
 1-1.禁止在未經改造的情況下重新發布,並標明你的姓名將套件占為己有
 
@@ -16,7 +16,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-若竹車両工場 RTM Addon一般キット使用規則、オープンソース条件（JP 日本語）
+若竹車両工場 RTM Addon一般キット使用規則、オープンソース条件（JP 日本語,by グーグル翻訳）
 
 1-1.変更せずに再発行することを禁止し、キットを自分のものとして使用するために自分の名前をマークします
 
@@ -32,7 +32,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US English)
+Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US English,by Google translate)
 
 1-1. Prohibit reissue without modification and mark your name to use the kit as your own
 
@@ -48,7 +48,7 @@ Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Rouzou Factory RTM kit umum modul RTM Wakatake Vehicle Factory, sesuai dengan ketentuan open source (Bahasa Indonesia)
+Aturan penggunaan kit umum modul RTM Rouzou Factory, sesuai dengan ketentuan open source (Bahasa Indonesia,by penerjemah Google)
 
 1-1. Melarang penerbitan ulang tanpa modifikasi, dan tandai nama Anda untuk mengambil kit sebagai milik Anda sendiri
 
