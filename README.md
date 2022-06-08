@@ -1,5 +1,22 @@
 # Rouzou-Factory-RTM-Addon
 
+
+Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US English,by Google translate)
+
+1-1. Prohibit reissue without modification and mark your name to use the kit as your own
+
+1-2. Modifications, optimizations, and modification optimization kits can be redistributed, but please disclose the source code and the name of the original author.
+
+1-3. If you are operating a server, you can freely use our package. If you have a modified package, please follow the 1-2 rules.
+
+1-4. You can use the train kit to create media, photos, videos, etc. (but hopefully you can specify the original creator of the kit)
+
+1-5. RTM crashes are primarily mod issues and are not responsible for crashes caused by the kit.
+
+1-6. If there is a problem with the kit (for example, importing a train package crashes or the dolly disappears), you can contact the author directly or provide an optimized version.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 若竹車輛工廠RTM模組通用套件使用規則,遵照開源條款 (Zh-TW 中文台灣,原文)
 
 1-1.禁止在未經改造的情況下重新發布,並標明你的姓名將套件占為己有
@@ -62,18 +79,3 @@ Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US
 
 1-6. If there is a problem with the kit (for example, importing a train package crashes or the dolly disappears), you can contact the author directly or provide an optimized version.
 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Aturan penggunaan kit umum modul RTM Rouzou Factory, sesuai dengan ketentuan open source (Bahasa Indonesia,by penerjemah Google)
-
-1-1. Melarang penerbitan ulang tanpa modifikasi, dan tandai nama Anda untuk mengambil kit sebagai milik Anda sendiri
-
-1-2. Dimungkinkan untuk memodifikasi, mengoptimalkan, dan mendistribusikan ulang kit pengoptimalan modifikasi, tetapi harap ungkapkan kode sumber dan nama penulis aslinya
-
-1-3. Jika Anda mengoperasikan server, Anda bebas menggunakan paket kami. Jika Anda memiliki paket yang dimodifikasi, ikuti peraturan di 1-2.
-
-1-4. Anda dapat menggunakan kit kereta api untuk membuat media, foto, video, dll. (tetapi kami harap Anda dapat menyebutkan pembuat asli kit tersebut)
-
-1-5. Kami tidak bertanggung jawab atas kerusakan yang disebabkan oleh kit, karena kerusakan RTM terutama merupakan masalah modul
-
-1-6. Jika ada masalah dengan kit (misalnya, mengimpor paket kereta akan macet, atau bogie akan hilang, dll.), Anda dapat bertanya langsung kepada pembuatnya, atau memberikan versi yang dioptimalkan
