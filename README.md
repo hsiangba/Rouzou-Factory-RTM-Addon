@@ -62,20 +62,3 @@ Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US
 1-5. RTMのクラッシュは主にModの問題であるため、キットによって引き起こされたクラッシュについては責任を負いません。
 
 1-6.キットに問題がある場合（たとえば、列車のパッケージをインポートするとクラッシュしたり、台車が消えたりするなど）、作成者に直接問い合わせるか、最適化されたバージョンを提供できます
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Rouzou Factory RTM train kit General Kit Usage Rules, Open Source Conditions (US English,by Google translate)
-
-1-1. Prohibit reissue without modification and mark your name to use the kit as your own
-
-1-2. Modifications, optimizations, and modification optimization kits can be redistributed, but please disclose the source code and the name of the original author.
-
-1-3. If you are operating a server, you can freely use our package. If you have a modified package, please follow the 1-2 rules.
-
-1-4. You can use the train kit to create media, photos, videos, etc. (but hopefully you can specify the original creator of the kit)
-
-1-5. RTM crashes are primarily mod issues and are not responsible for crashes caused by the kit.
-
-1-6. If there is a problem with the kit (for example, importing a train package crashes or the dolly disappears), you can contact the author directly or provide an optimized version.
-
